@@ -1,5 +1,5 @@
 # Hello, I'm Patricia!🦦
-I'm a second year Computer Science student at Babes Bolyai University.<br>I love reading, listening to music, running and capturing memories through photographs and videos.<br>I like to tackle fun projects and learn good programming and teamwork practices.<br>Right now I'm looking forward to learn more about full stack projects and how to design and implement them in an efficient, intelligent and secure way.<br>
+I'm a second year Computer Science student at Babes Bolyai University.<br>I love reading, listening to music, running and capturing memories through photographs and videos.<br>I like to tackle fun projects and learn good programming and teamwork practices.<br>Right now I'm looking forward to learning more about full stack projects and how to design and implement them in an efficient, intelligent and secure way.<br>
 
 
 ## 🌐 Socials:
